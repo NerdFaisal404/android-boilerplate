@@ -1,6 +1,6 @@
 # Android Boilerplate
-
-Sample Android app that we use at [ribot](http://ribot.co.uk) as a reference for new Android projects. It demonstrates the architecture, tools and guidelines that we use when developing for the Android platform (https://github.com/ribot/android-guidelines)
+*Ackwoledgement* : This project was inspired and forked from ribot. And done further modification to enhance in house development of W3 Engineers Ltd. There is not intention to re brand or produce new brand to showcase from ribot made architecture/boilplate, rather using as an example. 
+Sample Android app that we use at [W3 Engineers Ltd](https://w3engineers.com) as a reference for new Android projects. It demonstrates the architecture, tools and guidelines that we use when developing for the Android platform (https://github.com/sabbir360/android-guidelines)
 
 Libraries and tools included:
 
