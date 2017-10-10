@@ -1,5 +1,7 @@
 # Android Boilerplate
 *Ackwoledgement* : This project was inspired and forked from ribot. And done further modification to enhance in house development of W3 Engineers Ltd. There is not intention to re brand or produce new brand to showcase from ribot made architecture/boilplate, rather using as an example. 
+
+
 Sample Android app that we use at [W3 Engineers Ltd](https://w3engineers.com) as a reference for new Android projects. It demonstrates the architecture, tools and guidelines that we use when developing for the Android platform (https://github.com/sabbir360/android-guidelines)
 
 Libraries and tools included:
@@ -29,7 +31,7 @@ Libraries and tools included:
 
 ## Architecture
 
-This project follows ribot's Android architecture guidelines that are based on [MVP (Model View Presenter)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter). Read more about them [here](https://github.com/ribot/android-guidelines/blob/master/architecture_guidelines/android_architecture.md). 
+This project follows ribot's Android architecture guidelines that are based on [MVP (Model View Presenter)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter). Read more about them [here](https://github.com/sabbir360/android-guidelines/blob/master/architecture_guidelines/android_architecture.md). 
 
 ![](https://github.com/ribot/android-guidelines/raw/master/architecture_guidelines/architecture_diagram.png)
 
